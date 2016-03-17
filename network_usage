@@ -50,3 +50,16 @@ eth0 sent: 1970
 br0 sent: 
 eth2 recieved: 192
 eth2 sent: 0
+-------------------------Wed Mar 16 22:15:01 EDT 2016-------------------------
+eth1 sent: 2016
+veth103.0 sent: 1344
+veth101.0 recieved: 672
+veth101.0 sent: 1344
+veth103.0 recieved: 672
+eth1 recieved: 1344
+eth2 sent: 1610
+eth2 recieved: 1520
+br0 recieved: 0
+br0 sent: 416
+eth0 recieved: 1980
+eth0 sent: 1060
