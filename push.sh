@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo git pull
 sudo git add /git
 message=`date`
 sudo git commit -m "$message"

@@ -5221,3 +5221,91 @@ veth101.0 recieved: 0
 br0 recieved: 128
 veth101.0 sent: 0
 veth103.0 sent: 672
+-------------------------Thu Mar 24 18:11:52 EDT 2016-------------------------
+eth2 sent: 0
+eth2 recieved: 192
+br0 sent: 0
+eth1 recieved: 2560
+br0 recieved: 2560
+eth1 sent: 0
+eth0 sent: 584
+eth0 recieved: 1030
+veth103.0 recieved: 
+veth103.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+-------------------------Thu Mar 24 18:25:05 EDT 2016-------------------------
+br0 recieved: 256
+eth2 sent: 784
+br0 sent: 0
+eth2 recieved: 672
+eth1 recieved: 512
+eth1 sent: 0
+veth101.0 sent: 0
+veth101.0 recieved: 0
+veth103.0 sent: 0
+veth102.0 recieved: 0
+veth103.0 recieved: 0
+veth102.0 sent: 0
+-------------------------Thu Mar 24 18:30:01 EDT 2016-------------------------
+br0 recieved: 128
+eth1 recieved: 384
+eth1 sent: 0
+br0 sent: 0
+veth102.0 recieved: 
+eth0 recieved: 1030
+veth102.0 sent: 
+eth0 sent: 584
+veth103.0 sent: 
+veth101.0 sent: 
+veth103.0 recieved: 
+veth101.0 recieved: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Thu Mar 24 18:45:01 EDT 2016-------------------------
+eth0 recieved: 6020
+eth1 recieved: 1280
+eth0 sent: 3250
+br0 recieved: 1280
+eth1 sent: 0
+br0 sent: 0
+veth103.0 recieved: 
+veth101.0 recieved: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth101.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Thu Mar 24 19:00:01 EDT 2016-------------------------
+br0 sent: 0
+eth1 sent: 0
+br0 recieved: 256
+eth1 recieved: 288
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth102.0 sent: 
+veth101.0 sent: 
+veth103.0 recieved: 
+eth0 sent: 584
+eth0 recieved: 1030
+eth2 recieved: 
+eth2 sent: 
+-------------------------Thu Mar 24 19:15:01 EDT 2016-------------------------
+veth102.0 sent: 
+br0 sent: 0
+veth103.0 sent: 0
+br0 recieved: 0
+veth103.0 recieved: 0
+veth102.0 recieved: 
+veth101.0 sent: 988
+eth1 sent: 988
+eth1 recieved: 1532
+veth101.0 recieved: 908
+eth2 recieved: 0
+eth2 sent: 1110
+eth0 recieved: 2770
+eth0 sent: 1911
