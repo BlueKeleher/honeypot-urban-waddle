@@ -14196,3 +14196,18 @@ veth101.0 recieved:
 veth103.0 sent: 
 veth103.0 recieved: 
 veth102.0 sent: 
+-------------------------Tue Mar 29 17:40:01 EDT 2016-------------------------
+eth2 sent: 2880
+eth0 sent: 1080
+eth2 recieved: 2280
+eth0 recieved: 3280
+veth101.0 recieved: 
+veth101.0 sent: 
+br0 sent: 0
+eth1 recieved: 1408
+eth1 sent: 0
+br0 recieved: 1280
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
