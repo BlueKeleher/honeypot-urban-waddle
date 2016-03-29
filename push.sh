@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /git
 sudo git pull
 sudo git add /git
 message=`date`
