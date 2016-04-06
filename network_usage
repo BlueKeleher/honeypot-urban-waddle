@@ -23171,3 +23171,1387 @@ eth0 recieved: 2050
 eth2 recieved: 
 eth2 sent: 
 -------------------------Tue Apr  5 00:00:01 EDT 2016-------------------------
+veth102.0 sent: 14420
+eth1 recieved: 260048
+veth102.0 recieved: 259920
+eth1 sent: 12740
+br0 sent: 0
+br0 recieved: 128
+eth0 recieved: 11400
+eth0 sent: 6790
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 00:15:01 EDT 2016-------------------------
+eth0 sent: 1090
+eth0 recieved: 1476
+veth101.0 recieved: 0
+veth103.0 sent: 960
+veth101.0 sent: 0
+veth103.0 recieved: 0
+eth1 sent: 0
+eth1 recieved: 0
+br0 recieved: 0
+br0 sent: 0
+veth102.0 recieved: 
+veth102.0 sent: 
+eth2 recieved: 0
+eth2 sent: 1110
+-------------------------Tue Apr  5 00:30:01 EDT 2016-------------------------
+eth1 recieved: 352
+br0 sent: 0
+eth1 sent: 832
+br0 recieved: 1408
+eth0 sent: 2230
+eth0 recieved: 6160
+eth2 sent: 
+eth2 recieved: 
+veth102.0 recieved: 352
+veth102.0 sent: 832
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 00:45:01 EDT 2016-------------------------
+veth103.0 recieved: 
+br0 sent: 0
+br0 recieved: 128
+veth101.0 recieved: 
+veth102.0 sent: 832
+veth103.0 sent: 
+veth101.0 sent: 
+veth102.0 recieved: 352
+eth0 recieved: 4350
+eth0 sent: 1690
+eth1 sent: 0
+eth1 recieved: 128
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 01:00:01 EDT 2016-------------------------
+br0 recieved: 256
+eth0 recieved: 2070
+br0 sent: 0
+eth0 sent: 1150
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth101.0 sent: 
+veth103.0 sent: 
+veth102.0 sent: 
+veth103.0 recieved: 
+eth1 recieved: 1408
+eth1 sent: 0
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 01:15:01 EDT 2016-------------------------
+eth0 sent: 36600
+eth0 recieved: 72700
+veth101.0 sent: 1172440
+eth1 recieved: 47652
+eth1 sent: 1172022
+br0 recieved: 128
+br0 sent: 0
+veth103.0 sent: 15856
+veth101.0 recieved: 24800
+veth103.0 recieved: 1082100
+veth102.0 sent: 0
+veth102.0 recieved: 0
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 01:30:01 EDT 2016-------------------------
+eth1 recieved: 0
+eth0 recieved: 4011
+eth0 sent: 1640
+eth1 sent: 128
+br0 recieved: 0
+br0 sent: 128
+veth103.0 recieved: 
+veth103.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+veth102.0 sent: 832
+veth102.0 recieved: 352
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 01:45:01 EDT 2016-------------------------
+br0 recieved: 440
+eth0 recieved: 62380
+eth0 sent: 26600
+veth102.0 sent: 832
+br0 sent: 0
+veth102.0 recieved: 352
+eth1 sent: 832
+eth1 recieved: 1632
+veth101.0 recieved: 416
+veth103.0 sent: 
+veth101.0 sent: 0
+veth103.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 02:00:01 EDT 2016-------------------------
+eth0 sent: 0
+eth0 recieved: 936
+veth102.0 sent: 0
+veth102.0 recieved: 0
+br0 recieved: 0
+eth1 recieved: 256
+eth1 sent: 0
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth101.0 sent: 
+veth101.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 02:15:01 EDT 2016-------------------------
+eth0 recieved: 2588
+br0 sent: 0
+eth1 recieved: 128
+eth1 sent: 0
+eth0 sent: 1050
+br0 recieved: 0
+veth103.0 sent: 
+veth102.0 recieved: 0
+veth102.0 sent: 0
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 02:30:01 EDT 2016-------------------------
+eth0 recieved: 3090
+veth103.0 recieved: 
+eth0 sent: 1730
+veth103.0 sent: 
+eth1 sent: 0
+br0 recieved: 1408
+eth1 recieved: 256
+br0 sent: 0
+veth102.0 sent: 832
+veth101.0 recieved: 
+veth102.0 recieved: 352
+veth101.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 02:45:01 EDT 2016-------------------------
+eth1 recieved: 640
+eth0 sent: 19900
+eth1 sent: 0
+veth102.0 sent: 0
+eth0 recieved: 36300
+veth102.0 recieved: 416
+br0 recieved: 256
+br0 sent: 0
+veth103.0 recieved: 0
+veth103.0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 03:00:01 EDT 2016-------------------------
+eth1 recieved: 624
+veth102.0 sent: 
+br0 sent: 0
+veth103.0 sent: 
+veth103.0 recieved: 
+br0 recieved: 624
+eth0 recieved: 33200
+eth0 sent: 17900
+veth102.0 recieved: 352
+eth1 sent: 832
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 03:15:01 EDT 2016-------------------------
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 sent: 12486
+eth0 recieved: 27160
+eth1 recieved: 128
+br0 sent: 0
+br0 recieved: 128
+eth1 sent: 0
+eth2 recieved: 0
+eth2 sent: 1050
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 03:30:01 EDT 2016-------------------------
+eth0 recieved: 10724
+eth0 sent: 4200
+eth1 recieved: 352
+eth1 sent: 832
+br0 recieved: 256
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth102.0 recieved: 352
+veth102.0 sent: 832
+veth103.0 sent: 
+veth101.0 sent: 0
+veth101.0 recieved: 416
+veth103.0 recieved: 
+-------------------------Tue Apr  5 03:45:01 EDT 2016-------------------------
+br0 recieved: 1280
+br0 sent: 0
+eth1 recieved: 1408
+eth1 sent: 160
+veth101.0 sent: 
+veth101.0 recieved: 
+veth103.0 sent: 416
+veth102.0 recieved: 352
+veth103.0 recieved: 0
+veth102.0 sent: 832
+eth2 recieved: 
+eth2 sent: 
+eth0 sent: 1160
+eth0 recieved: 2080
+-------------------------Tue Apr  5 04:00:01 EDT 2016-------------------------
+eth1 recieved: 2560
+eth1 sent: 0
+br0 sent: 0
+br0 recieved: 2560
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 recieved: 2080
+eth0 sent: 1160
+eth2 recieved: 
+eth2 sent: 
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 04:15:01 EDT 2016-------------------------
+eth0 sent: 0
+eth0 recieved: 936
+br0 sent: 0
+br0 recieved: 0
+eth1 recieved: 0
+eth1 sent: 160
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth101.0 sent: 
+veth103.0 recieved: 
+veth101.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 04:30:01 EDT 2016-------------------------
+eth0 sent: 1730
+eth0 recieved: 3110
+veth101.0 sent: 
+eth1 sent: 0
+br0 recieved: 1408
+veth102.0 recieved: 
+eth1 recieved: 1664
+veth103.0 recieved: 
+veth101.0 recieved: 
+br0 sent: 0
+veth103.0 sent: 
+veth102.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 04:45:01 EDT 2016-------------------------
+eth0 recieved: 4450
+eth0 sent: 2260
+br0 sent: 0
+eth1 recieved: 128
+br0 recieved: 256
+eth1 sent: 0
+veth103.0 recieved: 
+veth102.0 sent: 9080
+veth101.0 sent: 0
+veth103.0 sent: 
+veth101.0 recieved: 416
+veth102.0 recieved: 21060
+eth2 sent: 1310
+eth2 recieved: 0
+-------------------------Tue Apr  5 05:00:01 EDT 2016-------------------------
+eth1 sent: 0
+br0 sent: 0
+eth1 recieved: 256
+eth0 recieved: 4091
+br0 recieved: 128
+eth0 sent: 2270
+veth102.0 recieved: 352
+veth102.0 sent: 832
+eth2 sent: 
+eth2 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 05:15:01 EDT 2016-------------------------
+eth1 sent: 0
+eth1 recieved: 1408
+br0 sent: 0
+br0 recieved: 1280
+veth102.0 recieved: 352
+veth102.0 sent: 832
+eth2 recieved: 
+eth2 sent: 
+eth0 recieved: 2080
+eth0 sent: 1160
+veth101.0 sent: 
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 05:30:01 EDT 2016-------------------------
+eth1 sent: 7882
+veth101.0 sent: 7882
+veth101.0 recieved: 14300
+eth1 recieved: 14300
+br0 recieved: 1280
+br0 sent: 0
+eth0 recieved: 4820
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 sent: 2250
+eth2 recieved: 
+eth2 sent: 
+veth103.0 recieved: 688
+veth103.0 sent: 416
+-------------------------Tue Apr  5 05:45:01 EDT 2016-------------------------
+eth0 sent: 584
+eth0 recieved: 1030
+eth1 sent: 55580
+eth1 recieved: 937888
+veth103.0 sent: 55880
+veth103.0 recieved: 937760
+veth102.0 recieved: 
+br0 recieved: 1408
+veth101.0 recieved: 
+veth102.0 sent: 
+br0 sent: 0
+veth101.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 06:00:01 EDT 2016-------------------------
+eth0 recieved: 624
+eth0 sent: 0
+br0 sent: 0
+br0 recieved: 128
+eth1 recieved: 640
+eth1 sent: 0
+veth102.0 recieved: 0
+veth103.0 sent: 
+veth101.0 sent: 
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth102.0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 06:15:01 EDT 2016-------------------------
+eth1 sent: 832
+br0 recieved: 128
+eth1 recieved: 352
+br0 sent: 0
+veth102.0 sent: 832
+veth102.0 recieved: 352
+veth103.0 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+eth0 sent: 2230
+eth0 recieved: 6160
+-------------------------Tue Apr  5 06:30:01 EDT 2016-------------------------
+veth103.0 sent: 
+veth103.0 recieved: 
+br0 sent: 0
+veth102.0 sent: 832
+veth101.0 recieved: 
+veth102.0 recieved: 352
+veth101.0 sent: 
+br0 recieved: 256
+eth1 sent: 832
+eth1 recieved: 352
+eth2 recieved: 
+eth2 sent: 
+eth0 recieved: 6160
+eth0 sent: 2230
+-------------------------Tue Apr  5 06:45:01 EDT 2016-------------------------
+eth1 recieved: 384
+eth1 sent: 0
+eth0 sent: 1120
+veth102.0 sent: 
+eth0 recieved: 3320
+veth102.0 recieved: 
+br0 recieved: 128
+br0 sent: 0
+eth2 sent: 
+veth101.0 sent: 
+eth2 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 07:00:01 EDT 2016-------------------------
+eth0 sent: 0
+br0 sent: 0
+eth0 recieved: 508
+eth1 recieved: 1408
+eth1 sent: 0
+veth102.0 sent: 
+br0 recieved: 1280
+veth102.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 07:15:01 EDT 2016-------------------------
+eth0 sent: 2200
+eth1 sent: 0
+eth1 recieved: 768
+br0 recieved: 256
+br0 sent: 0
+eth0 recieved: 4658
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 07:30:01 EDT 2016-------------------------
+eth0 recieved: 936
+eth0 sent: 0
+eth1 sent: 3076
+br0 recieved: 1408
+br0 sent: 0
+eth1 recieved: 2070
+veth101.0 recieved: 
+veth102.0 sent: 3076
+veth101.0 sent: 
+veth102.0 recieved: 2070
+eth2 recieved: 
+eth2 sent: 
+veth103.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 07:45:01 EDT 2016-------------------------
+eth0 sent: 1120
+eth0 recieved: 2020
+br0 sent: 0
+eth1 recieved: 1280
+br0 recieved: 1280
+eth1 sent: 0
+veth102.0 sent: 
+veth102.0 recieved: 
+eth2 recieved: 
+eth2 sent: 
+veth103.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 08:00:01 EDT 2016-------------------------
+eth1 sent: 5410
+br0 recieved: 1408
+veth102.0 recieved: 3410
+br0 sent: 0
+veth102.0 sent: 5410
+eth1 recieved: 3410
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+veth101.0 sent: 
+eth0 recieved: 3361
+eth0 sent: 2250
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 08:15:02 EDT 2016-------------------------
+eth0 recieved: 21600
+eth0 sent: 10400
+veth101.0 recieved: 0
+veth103.0 recieved: 0
+veth103.0 sent: 0
+br0 recieved: 128
+veth102.0 recieved: 
+eth1 sent: 0
+veth102.0 sent: 
+veth101.0 sent: 0
+eth1 recieved: 256
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 08:30:01 EDT 2016-------------------------
+eth0 sent: 1730
+eth1 sent: 160
+eth0 recieved: 3120
+eth2 sent: 
+eth1 recieved: 1536
+eth2 recieved: 
+br0 recieved: 1536
+br0 sent: 0
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 480
+veth102.0 recieved: 176
+veth103.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 08:45:01 EDT 2016-------------------------
+eth1 recieved: 2560
+eth1 sent: 0
+eth0 sent: 2780
+br0 sent: 0
+eth0 recieved: 6050
+br0 recieved: 2560
+veth103.0 sent: 
+veth103.0 recieved: 
+veth102.0 recieved: 
+veth102.0 sent: 
+veth101.0 sent: 
+veth101.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 09:00:01 EDT 2016-------------------------
+eth0 recieved: 624
+eth0 sent: 0
+br0 sent: 0
+br0 recieved: 0
+eth1 recieved: 1096
+eth1 sent: 1432
+veth103.0 sent: 
+veth103.0 recieved: 
+eth2 recieved: 
+eth2 sent: 
+veth102.0 sent: 1432
+veth102.0 recieved: 1096
+-------------------------Tue Apr  5 09:15:01 EDT 2016-------------------------
+br0 recieved: 128
+eth1 sent: 0
+br0 sent: 0
+eth1 recieved: 128
+eth0 recieved: 1040
+eth0 sent: 592
+eth2 sent: 
+eth2 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 09:30:01 EDT 2016-------------------------
+eth0 recieved: 28500
+eth1 sent: 0
+eth0 sent: 14700
+eth1 recieved: 128
+veth102.0 sent: 0
+veth102.0 recieved: 0
+br0 recieved: 128
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 sent: 0
+veth101.0 recieved: 416
+-------------------------Tue Apr  5 09:45:01 EDT 2016-------------------------
+eth1 sent: 31156
+eth1 recieved: 906720
+veth103.0 sent: 31156
+veth103.0 recieved: 906720
+eth0 recieved: 32300
+veth101.0 sent: 
+veth102.0 sent: 
+eth0 sent: 16500
+veth102.0 recieved: 
+veth101.0 recieved: 
+br0 recieved: 256
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 10:00:01 EDT 2016-------------------------
+br0 sent: 0
+eth1 sent: 0
+br0 recieved: 128
+eth1 recieved: 128
+eth0 recieved: 6950
+veth103.0 recieved: 
+eth0 sent: 3220
+veth103.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+veth102.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 recieved: 
+-------------------------Tue Apr  5 10:15:01 EDT 2016-------------------------
+eth0 recieved: 936
+eth0 sent: 0
+eth1 sent: 0
+eth1 recieved: 1280
+br0 sent: 0
+br0 recieved: 1280
+eth2 sent: 284
+eth2 recieved: 0
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 10:30:01 EDT 2016-------------------------
+veth102.0 recieved: 
+eth0 sent: 0
+eth0 recieved: 1160
+veth102.0 sent: 
+eth1 recieved: 0
+br0 sent: 0
+veth103.0 recieved: 
+br0 recieved: 0
+veth101.0 recieved: 
+eth1 sent: 0
+veth101.0 sent: 
+veth103.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 10:45:01 EDT 2016-------------------------
+eth1 recieved: 384
+eth1 sent: 0
+veth103.0 recieved: 
+br0 sent: 0
+veth101.0 recieved: 
+br0 recieved: 128
+veth101.0 sent: 
+veth102.0 sent: 
+veth103.0 sent: 
+veth102.0 recieved: 
+eth0 sent: 4460
+eth0 recieved: 9400
+eth2 recieved: 0
+eth2 sent: 296
+-------------------------Tue Apr  5 11:00:01 EDT 2016-------------------------
+eth0 sent: 35600
+eth0 recieved: 72500
+veth103.0 sent: 0
+eth1 recieved: 128
+veth101.0 recieved: 960
+veth103.0 recieved: 960
+eth1 sent: 0
+veth101.0 sent: 0
+br0 sent: 0
+br0 recieved: 256
+eth2 recieved: 
+eth2 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+-------------------------Tue Apr  5 11:15:01 EDT 2016-------------------------
+br0 recieved: 0
+eth1 recieved: 0
+eth1 sent: 0
+br0 sent: 0
+veth102.0 sent: 
+veth101.0 sent: 
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+eth2 recieved: 0
+eth2 sent: 1310
+-------------------------Tue Apr  5 11:30:01 EDT 2016-------------------------
+veth103.0 recieved: 256
+veth102.0 recieved: 256
+veth102.0 sent: 164
+eth1 sent: 0
+br0 sent: 0
+eth1 recieved: 128
+veth103.0 sent: 164
+veth101.0 recieved: 256
+eth0 recieved: 1010
+br0 recieved: 1280
+veth101.0 sent: 164
+eth0 sent: 572
+eth2 recieved: 0
+eth2 sent: 1050
+-------------------------Tue Apr  5 11:45:01 EDT 2016-------------------------
+eth0 sent: 0
+eth0 recieved: 624
+eth1 sent: 0
+eth1 recieved: 1280
+br0 recieved: 1280
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 recieved: 
+veth103.0 sent: 
+veth101.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 12:00:01 EDT 2016-------------------------
+eth0 recieved: 1030
+veth101.0 sent: 
+veth101.0 recieved: 
+eth0 sent: 584
+veth103.0 recieved: 3950
+eth1 sent: 2068
+eth1 recieved: 4646
+veth103.0 sent: 2068
+br0 sent: 0
+br0 recieved: 752
+veth102.0 recieved: 
+veth102.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 12:15:01 EDT 2016-------------------------
+eth0 recieved: 4578
+eth0 sent: 2110
+br0 recieved: 256
+eth1 recieved: 512
+br0 sent: 0
+eth1 sent: 0
+veth103.0 sent: 
+veth103.0 recieved: 
+eth2 recieved: 0
+eth2 sent: 1310
+veth102.0 recieved: 
+veth102.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 12:30:01 EDT 2016-------------------------
+br0 sent: 0
+br0 recieved: 1280
+eth1 recieved: 1408
+eth1 sent: 0
+eth0 sent: 560
+veth103.0 sent: 
+veth103.0 recieved: 
+eth0 recieved: 990
+eth2 recieved: 
+eth2 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 12:45:01 EDT 2016-------------------------
+eth0 recieved: 20100
+veth103.0 sent: 240
+eth0 sent: 5450
+veth103.0 recieved: 960
+eth1 recieved: 128
+eth1 sent: 0
+br0 sent: 0
+br0 recieved: 256
+veth102.0 sent: 
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth101.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 13:00:01 EDT 2016-------------------------
+eth1 sent: 0
+veth101.0 recieved: 
+br0 recieved: 1280
+veth103.0 sent: 
+veth103.0 recieved: 
+eth1 recieved: 1280
+br0 sent: 0
+veth101.0 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 sent: 1160
+eth0 recieved: 2080
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 13:15:01 EDT 2016-------------------------
+eth1 sent: 0
+eth0 recieved: 1980
+eth0 sent: 1060
+eth1 recieved: 384
+veth101.0 sent: 
+br0 sent: 0
+veth102.0 sent: 
+veth101.0 recieved: 
+veth102.0 recieved: 
+br0 recieved: 128
+veth103.0 sent: 
+veth103.0 recieved: 
+eth2 sent: 816
+eth2 recieved: 0
+-------------------------Tue Apr  5 13:30:01 EDT 2016-------------------------
+eth1 sent: 528000
+veth103.0 sent: 528000
+eth1 recieved: 19010
+eth0 recieved: 1956
+eth0 sent: 1140
+veth103.0 recieved: 19010
+br0 sent: 0
+veth101.0 sent: 0
+veth102.0 recieved: 
+br0 recieved: 0
+veth101.0 recieved: 0
+veth102.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 13:45:01 EDT 2016-------------------------
+br0 recieved: 128
+eth1 recieved: 128
+eth1 sent: 0
+br0 sent: 0
+eth0 recieved: 2060
+eth2 recieved: 
+eth0 sent: 1160
+eth2 sent: 
+veth103.0 recieved: 
+veth102.0 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 14:00:01 EDT 2016-------------------------
+eth1 sent: 0
+br0 sent: 0
+br0 recieved: 1280
+eth1 recieved: 1280
+eth2 sent: 
+eth2 recieved: 
+eth0 recieved: 2080
+eth0 sent: 1160
+veth102.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth103.0 sent: 
+veth102.0 recieved: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 14:15:01 EDT 2016-------------------------
+veth103.0 recieved: 2400
+veth103.0 sent: 0
+br0 sent: 0
+eth0 sent: 1140
+br0 recieved: 1280
+eth0 recieved: 876
+eth1 sent: 0
+eth1 recieved: 1280
+eth2 recieved: 0
+eth2 sent: 876
+veth102.0 recieved: 
+veth102.0 sent: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 14:30:01 EDT 2016-------------------------
+br0 recieved: 128
+eth1 recieved: 256
+eth1 sent: 0
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+eth0 sent: 592
+eth0 recieved: 1040
+veth103.0 sent: 
+veth103.0 recieved: 
+veth102.0 recieved: 
+veth102.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 14:45:01 EDT 2016-------------------------
+veth102.0 sent: 6886
+veth102.0 recieved: 43028
+eth0 sent: 29000
+eth0 recieved: 51600
+eth1 sent: 6348
+eth1 recieved: 43156
+veth103.0 sent: 
+veth103.0 recieved: 
+br0 recieved: 256
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 15:00:01 EDT 2016-------------------------
+eth0 sent: 0
+eth0 recieved: 936
+br0 recieved: 752
+eth1 sent: 0
+eth1 recieved: 128
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+veth102.0 sent: 
+-------------------------Tue Apr  5 15:15:01 EDT 2016-------------------------
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 recieved: 416
+veth103.0 sent: 
+eth1 sent: 0
+veth101.0 sent: 0
+eth1 recieved: 1280
+br0 recieved: 1280
+veth103.0 recieved: 
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+eth0 sent: 1970
+eth0 recieved: 3930
+-------------------------Tue Apr  5 15:30:01 EDT 2016-------------------------
+veth102.0 recieved: 240
+eth0 recieved: 89800
+veth102.0 sent: 0
+eth0 sent: 35900
+veth101.0 sent: 
+br0 sent: 0
+br0 recieved: 128
+veth103.0 sent: 
+veth101.0 recieved: 
+eth1 recieved: 128
+veth103.0 recieved: 
+eth1 sent: 0
+eth2 recieved: 0
+eth2 sent: 272
+-------------------------Tue Apr  5 15:45:01 EDT 2016-------------------------
+eth1 sent: 0
+eth1 recieved: 1280
+br0 recieved: 1280
+br0 sent: 0
+veth102.0 sent: 
+veth103.0 sent: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth103.0 recieved: 
+veth101.0 recieved: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 16:00:01 EDT 2016-------------------------
+eth1 sent: 0
+eth1 recieved: 128
+eth0 sent: 584
+eth0 recieved: 1030
+br0 recieved: 0
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth103.0 sent: 
+-------------------------Tue Apr  5 16:15:01 EDT 2016-------------------------
+eth1 recieved: 128
+br0 sent: 0
+eth1 sent: 0
+br0 recieved: 1408
+eth2 sent: 1310
+eth2 recieved: 0
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 recieved: 2480
+eth0 sent: 1340
+veth103.0 sent: 
+veth103.0 recieved: 
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 16:30:01 EDT 2016-------------------------
+eth0 recieved: 624
+eth0 sent: 0
+eth1 recieved: 128
+br0 recieved: 1536
+eth1 sent: 0
+br0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth101.0 sent: 
+veth103.0 sent: 416
+veth101.0 recieved: 
+veth102.0 sent: 0
+veth102.0 recieved: 416
+veth103.0 recieved: 0
+-------------------------Tue Apr  5 16:45:01 EDT 2016-------------------------
+eth0 sent: 15900
+veth103.0 sent: 240
+eth0 recieved: 29200
+veth103.0 recieved: 0
+eth1 recieved: 440
+eth1 sent: 0
+br0 recieved: 440
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 17:00:01 EDT 2016-------------------------
+eth0 sent: 2210
+eth0 recieved: 4040
+eth1 recieved: 128
+br0 sent: 0
+br0 recieved: 128
+eth1 sent: 0
+veth101.0 sent: 
+veth101.0 recieved: 
+eth2 sent: 272
+eth2 recieved: 0
+-------------------------Tue Apr  5 17:15:01 EDT 2016-------------------------
+eth1 recieved: 512
+eth1 sent: 0
+eth0 sent: 1620
+eth2 recieved: 2780
+eth0 recieved: 3628
+eth2 sent: 2380
+br0 sent: 0
+br0 recieved: 256
+veth102.0 recieved: 
+veth102.0 sent: 
+-------------------------Tue Apr  5 17:30:01 EDT 2016-------------------------
+br0 recieved: 128
+eth1 sent: 0
+eth0 recieved: 1980
+eth2 sent: 4530
+eth1 recieved: 384
+br0 sent: 0
+eth2 recieved: 6560
+eth0 sent: 1060
+veth103.0 recieved: 
+veth103.0 sent: 
+veth101.0 recieved: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth102.0 sent: 
+-------------------------Tue Apr  5 17:45:01 EDT 2016-------------------------
+eth2 sent: 2970
+eth0 recieved: 1980
+br0 recieved: 0
+eth0 sent: 1060
+eth2 recieved: 3940
+eth1 sent: 0
+eth1 recieved: 0
+br0 sent: 0
+veth102.0 sent: 0
+veth101.0 sent: 
+veth102.0 recieved: 0
+veth101.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+-------------------------Tue Apr  5 18:00:01 EDT 2016-------------------------
+eth0 sent: 7590
+eth0 recieved: 14400
+veth103.0 sent: 240
+veth103.0 recieved: 0
+eth1 recieved: 2560
+br0 recieved: 2560
+eth1 sent: 0
+br0 sent: 0
+eth2 sent: 
+eth2 recieved: 
+veth102.0 sent: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 18:15:01 EDT 2016-------------------------
+eth0 recieved: 624
+eth0 sent: 0
+veth101.0 sent: 
+eth1 recieved: 0
+eth1 sent: 0
+veth101.0 recieved: 
+veth102.0 recieved: 
+br0 sent: 0
+veth102.0 sent: 
+br0 recieved: 0
+veth103.0 recieved: 
+veth103.0 sent: 
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 18:30:01 EDT 2016-------------------------
+eth1 recieved: 256
+eth1 sent: 0
+veth101.0 recieved: 
+veth102.0 sent: 
+veth102.0 recieved: 
+eth0 recieved: 1980
+veth101.0 sent: 
+eth0 sent: 1060
+veth103.0 recieved: 
+br0 recieved: 256
+veth103.0 sent: 
+br0 sent: 0
+eth2 sent: 1310
+eth2 recieved: 0
+-------------------------Tue Apr  5 18:45:01 EDT 2016-------------------------
+veth102.0 sent: 
+veth102.0 recieved: 
+eth1 recieved: 1408
+eth1 sent: 0
+eth0 recieved: 35800
+eth0 sent: 17100
+br0 sent: 0
+br0 recieved: 1280
+veth103.0 sent: 0
+veth103.0 recieved: 0
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 19:00:01 EDT 2016-------------------------
+br0 recieved: 128
+eth0 recieved: 1030
+eth1 recieved: 128
+br0 sent: 0
+eth1 sent: 0
+eth0 sent: 584
+eth2 recieved: 
+eth2 sent: 
+veth102.0 recieved: 
+veth102.0 sent: 
+-------------------------Tue Apr  5 19:15:01 EDT 2016-------------------------
+eth0 recieved: 1980
+eth1 sent: 0
+eth0 sent: 1060
+eth1 recieved: 1280
+br0 sent: 0
+br0 recieved: 1280
+eth2 sent: 280
+eth2 recieved: 0
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 19:30:01 EDT 2016-------------------------
+eth2 recieved: 0
+eth0 recieved: 4890
+eth0 sent: 2200
+eth2 sent: 880
+br0 recieved: 1280
+eth1 sent: 480
+br0 sent: 0
+eth1 recieved: 1536
+veth101.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 19:45:01 EDT 2016-------------------------
+eth0 recieved: 1966
+eth0 sent: 584
+br0 recieved: 1536
+br0 sent: 0
+eth1 recieved: 128
+eth1 sent: 0
+eth2 sent: 284
+eth2 recieved: 0
+veth102.0 recieved: 
+veth103.0 sent: 
+veth102.0 sent: 
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth101.0 sent: 
+-------------------------Tue Apr  5 20:00:01 EDT 2016-------------------------
+br0 recieved: 1280
+br0 sent: 0
+eth1 sent: 0
+eth1 recieved: 1280
+veth103.0 sent: 
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth102.0 sent: 
+eth2 recieved: 0
+eth2 sent: 1310
+-------------------------Tue Apr  5 20:15:01 EDT 2016-------------------------
+eth0 recieved: 43900
+eth0 sent: 24100
+veth102.0 sent: 0
+veth102.0 recieved: 480
+eth1 sent: 0
+eth1 recieved: 2816
+br0 recieved: 2560
+veth103.0 recieved: 0
+br0 sent: 0
+veth103.0 sent: 720
+veth101.0 sent: 
+veth101.0 recieved: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 20:30:02 EDT 2016-------------------------
+br0 recieved: 0
+veth103.0 recieved: 
+eth1 sent: 0
+veth101.0 sent: 
+eth1 recieved: 0
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth102.0 sent: 
+veth103.0 sent: 
+br0 sent: 0
+eth0 recieved: 2080
+eth0 sent: 1160
+eth2 sent: 
+eth2 recieved: 
+-------------------------Tue Apr  5 20:45:01 EDT 2016-------------------------
+br0 recieved: 1408
+eth1 sent: 0
+br0 sent: 0
+eth1 recieved: 128
+eth0 sent: 3880
+eth0 recieved: 8860
+veth101.0 recieved: 
+veth101.0 sent: 
+eth2 sent: 1380
+veth103.0 recieved: 
+veth103.0 sent: 
+veth102.0 recieved: 
+veth102.0 sent: 
+eth2 recieved: 0
+-------------------------Tue Apr  5 21:00:01 EDT 2016-------------------------
+eth0 recieved: 4578
+eth0 sent: 2110
+eth1 recieved: 256
+br0 sent: 0
+br0 recieved: 1536
+eth1 sent: 0
+veth103.0 recieved: 
+veth103.0 sent: 
+eth2 recieved: 0
+eth2 sent: 1310
+veth102.0 sent: 
+veth102.0 recieved: 
+-------------------------Tue Apr  5 21:15:01 EDT 2016-------------------------
+br0 recieved: 1280
+br0 sent: 0
+eth1 recieved: 1280
+eth1 sent: 0
+eth2 sent: 1310
+eth2 recieved: 0
+eth0 sent: 592
+veth102.0 sent: 
+eth0 recieved: 1040
+veth102.0 recieved: 
+-------------------------Tue Apr  5 21:30:01 EDT 2016-------------------------
+eth1 sent: 0
+br0 sent: 0
+br0 recieved: 1536
+eth1 recieved: 128
+eth2 recieved: 
+eth2 sent: 
+eth0 recieved: 7887
+eth0 sent: 3620
+-------------------------Tue Apr  5 21:45:01 EDT 2016-------------------------
+br0 sent: 0
+br0 recieved: 1280
+eth1 sent: 0
+eth1 recieved: 128
+eth0 sent: 7160
+eth0 recieved: 14100
+eth2 sent: 
+eth2 recieved: 
+veth101.0 sent: 
+veth101.0 recieved: 
+veth102.0 recieved: 
+veth103.0 recieved: 
+veth103.0 sent: 
+veth102.0 sent: 
+-------------------------Tue Apr  5 22:00:01 EDT 2016-------------------------
+eth0 sent: 1060
+eth0 recieved: 1980
+eth1 sent: 0
+br0 recieved: 1408
+eth1 recieved: 128
+br0 sent: 0
+veth101.0 recieved: 
+veth101.0 sent: 
+eth2 recieved: 0
+eth2 sent: 808
+veth103.0 recieved: 
+veth103.0 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+-------------------------Tue Apr  5 22:15:01 EDT 2016-------------------------
+eth1 sent: 0
+eth0 recieved: 2588
+eth0 sent: 1050
+eth1 recieved: 128
+br0 sent: 0
+veth103.0 recieved: 
+veth103.0 sent: 
+br0 recieved: 256
+veth101.0 recieved: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 22:30:01 EDT 2016-------------------------
+eth0 sent: 0
+eth0 recieved: 624
+eth1 sent: 0
+eth1 recieved: 128
+br0 recieved: 128
+br0 sent: 0
+eth2 sent: 296
+eth2 recieved: 0
+veth103.0 recieved: 
+veth103.0 sent: 
+veth102.0 sent: 
+veth101.0 sent: 
+veth102.0 recieved: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 22:45:01 EDT 2016-------------------------
+eth0 sent: 1120
+eth0 recieved: 3320
+eth1 sent: 0
+br0 sent: 0
+eth1 recieved: 128
+br0 recieved: 1280
+veth103.0 sent: 
+veth101.0 recieved: 
+veth103.0 recieved: 
+veth101.0 sent: 
+veth102.0 sent: 0
+veth102.0 recieved: 416
+eth2 recieved: 0
+eth2 sent: 592
+-------------------------Tue Apr  5 23:00:01 EDT 2016-------------------------
+eth0 sent: 23600
+eth0 recieved: 45700
+veth103.0 sent: 960
+veth103.0 recieved: 240
+eth1 recieved: 1280
+br0 sent: 0
+eth1 sent: 0
+br0 recieved: 1280
+eth2 recieved: 
+eth2 sent: 
+veth101.0 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth101.0 recieved: 
+-------------------------Tue Apr  5 23:15:01 EDT 2016-------------------------
+eth1 recieved: 128
+eth1 sent: 0
+eth0 sent: 1120
+eth0 recieved: 2030
+br0 recieved: 1408
+br0 sent: 0
+veth101.0 recieved: 
+veth101.0 sent: 
+eth2 recieved: 
+eth2 sent: 
+-------------------------Tue Apr  5 23:30:01 EDT 2016-------------------------
+eth0 recieved: 1560
+eth0 sent: 888
+br0 sent: 0
+eth1 recieved: 1280
+eth1 sent: 0
+br0 recieved: 1280
+eth2 sent: 536
+eth2 recieved: 0
+veth102.0 sent: 
+veth102.0 recieved: 
+-------------------------Tue Apr  5 23:45:01 EDT 2016-------------------------
+eth0 recieved: 624
+br0 sent: 0
+br0 recieved: 128
+eth1 recieved: 384
+eth1 sent: 0
+eth0 sent: 0
+eth2 recieved: 
+eth2 sent: 
+veth102.0 sent: 
+veth102.0 recieved: 
+veth103.0 sent: 
+veth103.0 recieved: 
+-------------------------Wed Apr  6 00:00:01 EDT 2016-------------------------
