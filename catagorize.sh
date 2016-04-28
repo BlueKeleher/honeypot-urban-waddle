@@ -36,11 +36,11 @@ scan pear 5 0 5 0 5
 
 #calculate percentages
 weight_total=`expr $explore_total + $honey_total + $malware_total + $ddos_total + $nuke_total`
-explore_percent=`expr $explore_total / $weight_total`
-honey_percent=`expr $honey_total / $weight_total`
-malware_percent=`expr $malware_total / $weight_total`
-ddos_percent=`expr $ddos_total / $weight_total`
-nuke_percent=`expr $nuke_total / $weight_total`
+explore_percent=`echo "scale=2; $explore_total / $weight_total" | bc`
+honey_percent=`echo "scale=2; $honey_total / $weight_total" | bc`
+malware_percent=`echo "scale=2; $malware_total / $weight_total" | bc`
+ddos_percent=`echo "scale=2; $ddos_total / $weight_total"  | bc`
+nuke_percent=`echo "scale=2; $nuke_total / $weight_total" | bc`
 
 #calculate which is highest
 echo "$explore_percent explore" >> temp
@@ -48,8 +48,43 @@ echo "$honey_percent honey" >> temp
 echo "$malware_percent malware" >> temp
 echo "$ddos_percent ddos" >> temp
 echo "$nuke_percent nuke" >> temp
-result=`cat temp | sort | head -1 | cut -d ' ' -f 2`
-rm temp
+result1=`cat temp | sort | tail -1 | cut -d ' ' -f 2`
+result2=`cat temp | sort | tail -2 | head -1 | cut -d ' ' -f 2`
+result3=`cat temp | sort | tail -3 | head -1 | cut -d ' ' -f 2`
+result4=`cat temp | sort | tail -4 | head -1 | cut -d ' ' -f 2`
+result5=`cat temp | sort | head -1 | cut -d ' ' -f 2`
+
+#check for a tie
+tie="no tie"
+result1_value=`cat temp | sort | tail -1 | cut -d ' ' -f 1`
+result2_value=`cat temp | sort | tail -2 | head -1 | cut -d ' ' -f 1`
+result3_value=`cat temp | sort | tail -3 | head -1 | cut -d ' ' -f 1`
+result4_value=`cat temp | sort | tail -4 | head -1 | cut -d ' ' -f 1`
+result5_value=`cat temp | sort | head -1 | cut -d ' ' -f 1`
+if [ "$result1_value" = $result2_value ] && [ "$result1_value" != "$result3_value" ]
+then
+	tie="$result1,$result2"
+fi
+if [ "$result1_value" = $result2_value ] && [ "$result1_value" = $result3_value ] && [ "$result1_value" != "$result4_value" ]
+then
+        tie="$result1,$result2,$result3"
+fi
+if [ "$result1_value" = $result2_value ] && [ "$result1_value" = $result3_value ] && [ "$result1_value" = $result4_value ] && [ "$result1_value" != "$result5_value" ]
+then
+        tie="$result1,$result2,$result3,$result4"
+fi
+if [ "$result1_value" = $result2_value ] && [ "$result1_value" = $result3_value ] && [ "$result1_value" = $result4_value ] && [ "$result1_value" = $result5_value ]
+then
+        tie="$result1,$result2,$result3,$result4,$result5"
+fi
 
 #print results
-echo "$explore_percent|$honey_percent|$malware_percent|$ddos_percent|$nuke_percent|$result"
+if [ "$tie" = "no tie" ]
+then
+	echo "$explore_percent|$honey_percent|$malware_percent|$ddos_percent|$nuke_percent|$result1"
+else
+	echo "$explore_percent|$honey_percent|$malware_percent|$ddos_percent|$nuke_percent|$tie"
+fi
+
+#remove temporary file
+rm temp
