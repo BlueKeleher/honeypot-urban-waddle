@@ -1,0 +1,1822 @@
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject procps static-network-up started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject procps static-network-up started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject procps static-network-up started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject procps static-network-up started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject procps static-network-up started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rc-sysinit  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rc-sysinit  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rc-sysinit  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rc-sysinit  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rc-sysinit  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/bin/grep]: grep -q is off
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/sysctl]: sysctl -e -p -
+/ filename:/bin/cat]: cat /etc/sysctl.d/10-console-messages.conf /etc/sysctl.d/10-ipv6-privacy.conf /etc/sysctl.d/10-kernel-hardening.conf /etc/sysctl.d/10-link-restrictions.conf /etc/sysctl.d/10-magic-sysrq.conf /etc/sysctl.d/10-network-security.conf /etc/sysctl.d/10-ptrace.conf /etc/sysctl.d/10-zeropage.conf /etc/sysctl.conf
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-socket-bridge  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  stopped
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject mountall-net  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
+/ filename:/bin/sed]: sed -nre s/^[^#][^
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/etc/init.d/rcS]: /etc/init.d/rcS
+/ filename:/etc/init.d/rc]: /etc/init.d/rc S
+/ filename:/bin/stty]: stty onlcr
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/sbin/startpar]: startpar -v
+/ filename:/etc/rcS.d/S05keymap.sh]: /etc/rcS.d/S05keymap.sh start
+/ filename:/etc/rcS.d/S35quota]: /etc/rcS.d/S35quota start
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/grep]: grep -q is off
+/ filename:/sbin/quotaon]: /sbin/quotaon -ap
+/ filename:/etc/rcS.d/S55urandom]: /etc/rcS.d/S55urandom start
+/ filename:/bin/cat]: cat /proc/sys/kernel/random/poolsize
+/ filename:/bin/cat]: cat /proc/cmdline
+/ filename:/bin/run-parts]: run-parts --lsbsysinit --list /lib/lsb/init-functions.d
+/ filename:/bin/date]: date +%s.%N
+/ filename:/bin/cat]: cat /var/lib/urandom/random-seed
+/ filename:/bin/dd]: dd if=/dev/urandom of=/var/lib/urandom/random-seed bs=512 count=1
+/ filename:/sbin/telinit]: telinit 2
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject upstart-file-bridge  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/local/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/bin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/usr/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/sbin/startpar-upstart-inject]: startpar-upstart-inject rsyslog  started
+/ filename:/bin/sed]: sed -e /start\/running,/{s/.*,[^0-9]*//;q};d
+/ filename:/sbin/status]: status mountall
